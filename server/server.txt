@@ -1,0 +1,14 @@
+http://103.249.120.58:8085/
+
+
+husain:husain@123
+
+
+nexus
+http://103.249.120.58:8081/
+
+
+sonar
+deskbok
+deskbook@123
+http://123.201.81.59:9000/projects
